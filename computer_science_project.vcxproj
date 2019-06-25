@@ -143,19 +143,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="1.in" />
-    <None Include="11周周报.docx" />
-    <None Include="12周周报  .docx" />
-    <None Include="13周周报 .docx" />
-    <None Include="14周周报.docx" />
-    <None Include="15周周报.docx" />
-    <None Include="15班-03组-概要设计2.0版.docx" />
-    <None Include="15班_03组_概要设计1.0版.docx" />
     <None Include="2.in" />
     <None Include="3.in" />
     <None Include="4.in" />
     <None Include="5.in" />
     <None Include="setup.exe" />
-    <None Include="会议纪要.docx" />
     <None Include="计导实践第三小组外卖调度系统.msi" />
   </ItemGroup>
   <ItemGroup>

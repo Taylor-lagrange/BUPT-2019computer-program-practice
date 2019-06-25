@@ -85,30 +85,6 @@
     <None Include="计导实践第三小组外卖调度系统.msi">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="11周周报.docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="12周周报  .docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="13周周报 .docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="14周周报.docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="15周周报.docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="会议纪要.docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="15班_03组_概要设计1.0版.docx">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="15班-03组-概要设计2.0版.docx">
-      <Filter>资源文件</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="complete1.png">
